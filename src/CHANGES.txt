@@ -1,0 +1,41 @@
+support for VPN
+
+Version 0.0.1	released on 2014/09/19
+
+no matter the user shell, bash is always invoked
+ensure are shells are clean 
+enable assertions on all nodes if they are enabled locally
+discover NAS dependancies
+node/cluster model redesigned
+
+
+Version 0.0.1	released on 2015/02/16
+
+
+
+Version 0.0.2	released on 2015/02/17
+
+
+
+Version 0.0.3	released on 2015/02/17
+
+
+
+Version 0.1.3	released on 2016/01/13
+
+
+
+Version 1.0.0	released on 2016/01/26
+
+
+
+Version 1.0.1	released on 2016/01/27
+
+
+
+Version 1.0.2	released on 2016/01/27
+
+
+
+Version 1.0.3	released on 2016/01/27
+
